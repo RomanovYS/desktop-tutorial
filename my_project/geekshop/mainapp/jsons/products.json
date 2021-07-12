@@ -1,0 +1,173 @@
+[
+  {
+    "category": "Стулья",
+    "name": "Стул Фантазия (фисташковый)",
+    "description": "Кухонный стул",
+    "short_desc": "Стул",
+    "image": "product_images/A0001.jpg",
+    "price": "1200.00",
+    "quantity": 10
+  },
+  {
+    "category": "Стулья",
+    "name": "Стул Фантазия (темн. кор.)",
+    "description": "Кухонный стул",
+    "short_desc": "Стул",
+    "image": "product_images/A0002.jpg",
+    "price": "1200.00",
+    "quantity": 20
+  },
+  {
+    "category": "Стулья",
+    "name": "Стул Фантазия (медный)",
+    "description": "Кухонный стул",
+    "short_desc": "Стул",
+    "image": "product_images/A0003.jpg",
+    "price": "1100.00",
+    "quantity": 6
+  },
+  {
+    "category": "Стулья",
+    "name": "Стул Эллегия",
+    "description": "Кухонный стул",
+    "short_desc": "Стул",
+    "image": "product_images/A0004.jpg",
+    "price": "1500.00",
+    "quantity": 15
+  },
+  {
+    "category": "Стулья",
+    "name": "Стул Дороти",
+    "description": "Кухонный стул",
+    "short_desc": "Стул",
+    "image": "product_images/A0005.jpg",
+    "price": "1250.00",
+    "quantity": 8
+  },
+  {
+    "category": "Стулья",
+    "name": "Стул Мечта",
+    "description": "Кухонный стул",
+    "short_desc": "Стул",
+    "image": "product_images/A0006.jpg",
+    "price": "900.00",
+    "quantity": 40
+  },
+  {
+    "category": "Кресла",
+    "name": "Кресло Страндмон",
+    "description": "Кресло с высокой спинкой обеспечит максимальный комфорт.",
+    "short_desc": "Кресло.",
+    "image": "product_images/B0001.jpg",
+    "price": "10000.00",
+    "quantity": 5
+  },
+  {
+    "category": "Кресла",
+    "name": "Кресло для отдыха (модель 71)",
+    "description": "Велюровая обивка. Дуб Венге.",
+    "short_desc": "Кресло",
+    "image": "product_images/B0002.jpg",
+    "price": "14500.00",
+    "quantity": 3
+  },
+  {
+    "category": "Кресла",
+    "name": "Кресло плетёное",
+    "description": "С декоративными элементами из ротанга",
+    "short_desc": "Кресло",
+    "image": "product_images/B0003.jpg",
+    "price": "9800.00",
+    "quantity": 5
+  },
+  {
+    "category": "Кресла",
+    "name": "Кресло Багама",
+    "description": "Стильное кресло для летнего отдыха",
+    "short_desc": "Кресло",
+    "image": "product_images/B0004.jpg",
+    "price": "5500.50",
+    "quantity": 8
+  },
+  {
+    "category": "Кресла",
+    "name": "Кресло Lobby (желтое)",
+    "description": "Мягкость и комфорт из Испании",
+    "short_desc": "Кресло",
+    "image": "product_images/B0005.jpg",
+    "price": "2300.00",
+    "quantity": 5
+  },
+  {
+    "category": "Кресла",
+    "name": "Кресло качалка",
+    "description": "Классический отдых в старинном стиле",
+    "short_desc": "Кресло",
+    "image": "product_images/B0006.jpg",
+    "price": "16400.00",
+    "quantity": 2
+  },
+  {
+    "category": "Дом",
+    "name": "Диван Диваныч",
+    "description": "Для уютного лежания",
+    "short_desc": "Диван",
+    "image": "product_images/product-3-sm.jpg",
+    "price": "16250.00",
+    "quantity": 3
+  },
+  {
+    "category": "Дом",
+    "name": "Лампа Ламповая",
+    "description": "Для уютного свечения",
+    "short_desc": "Лампа",
+    "image": "product_images/product-1.jpg",
+    "price": "1200.00",
+    "quantity": 10
+  },
+  {
+    "category": "Дом",
+    "name": "Чайник \"Чайник\"",
+    "description": "Для быстрого кипячения",
+    "short_desc": "Чайник",
+    "image": "product_images/product-3.jpg",
+    "price": "1850.00",
+    "quantity": 50
+  },
+  {
+    "category": "Офис",
+    "name": "Стул офисный",
+    "description": "Для комфортного сидения",
+    "short_desc": "Стул офисный",
+    "image": "product_images/product-21.jpg",
+    "price": "4500.00",
+    "quantity": 10
+  },
+  {
+    "category": "Офис",
+    "name": "Часы \"Тик-Так\"",
+    "description": "Для частого смотрения.",
+    "short_desc": "Часы офисные",
+    "image": "product_images/product-4-sm.jpg",
+    "price": "750.00",
+    "quantity": 7
+  },
+  {
+    "category": "Офис",
+    "name": "Светильник \"Вглаз\"",
+    "description": "Офисный светильник, чтобы не спать на работе.",
+    "short_desc": "Светильник",
+    "image": "product_images/product-41.jpg",
+    "price": "900.00",
+    "quantity": 1
+  },
+  {
+    "category": "Классика",
+    "name": "Кресло синее",
+    "description": "Кресло как кресло, ничего обычного.",
+    "short_desc": "Классическое кресло",
+    "image": "product_images/product-2.jpg",
+    "price": "3500.00",
+    "quantity": 10
+  }
+]
