@@ -1,14 +1,35 @@
 *{
-    margin: 0;
+    margin: auto;
     padding: 0;
 }
 
-header {
-    display: flex;
+
+.container {
+    max-width: 1200px;
+    min-width: 900px;
+    border: 1px solid rgb(140, 90, 255);
+    border-radius: 5px;
+}
+
+
+.top {
+    display: block;
     background-color: #6ab5e6;
-    height: 45px;
-    justify-content: flex-end;
-    align-items: center;
+    height: 40px;
+    text-align: right;
+    padding-top: 10px;
+}
+
+.goods-search{
+    margin: 5px;
+}
+
+.search-button{
+    margin: 5px;
+}
+
+.cart-button{
+    margin: 5px;
 }
 
 h3 {
@@ -87,4 +108,25 @@ h3 {
 .addClick{
     width: 80px;
     height: 21px;
+}
+
+.body {
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-around;
+    border: 1px solid rgb(140, 90, 255);
+    align-items: center;
+    padding: 10px 10px;
+    margin: 5px auto;
+    max-width: 1200px;
+    min-width: 900px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+
+.basket{
+    display: block;
+    background-color: #3f7091;
+    height: 20px;
 }
