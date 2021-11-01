@@ -4,17 +4,39 @@
 <head>
    <meta charset="UTF-8">
    <title>eShop</title>
-   <link rel="stylesheet" href="shop.css">
+   <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
    <script src="script.js"></script>
+   <link rel="stylesheet" href="shop.css">
 </head>
 
 <body>
    <header>
-      <button class="cart-button" type="button" onclick="viewCart()">Корзина <span id="cartcoint"></span></button>
    </header>
    <main>
-      <div class="goods-list"></div>
+      <div class="container">
+         <div id="app">
+            <!-- Блок чердака-->
+            <div class="top">
+               <input type="text" class="goods-search" v-model="search" />
+               <button class="search-button" type="button" v-on:click="filterGoods">Искать</button>
+               <button class="cart-button" type="button" v-on:click="setVision">Корзина</button>
+            </div>
+            <!-- Основной блок товаров -->
+            <div class="body">
+               <goods-item v-for="item in filteredGoods" :item="item"></goods-item>
+            </div>
+            <!-- Блок корзины -->
+            <div class="basket" v-if="basketCardVision">
+               <basket-card></basket-card>
+               <div class="basketList">
+                  <basket-goods-item v-for="item in goods" :item="item"></basket-goods-item>
+               </div>
+            </div>
+         </div>
+      </div>
    </main>
+
 </body>
+
 
 </html>
