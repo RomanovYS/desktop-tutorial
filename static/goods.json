@@ -1,0 +1,11 @@
+[
+    { "id": 1, "title": "Shirt", "price": 50, "img": "no_photo.jpg" },
+    { "id": 2, "title": "Socks", "price": 10, "img": "no_photo.jpg" },
+    { "id": 2, "title": "Socks", "price": 10, "img": "no_photo.jpg" },
+    { "id": 3, "title": "Jacket", "price": 350, "img": "no_photo.jpg" },
+    { "id": 4, "title": "Shoes", "price": 200, "img": "no_photo.jpg" },
+    { "id": 5, "title": "Coat", "price": 550, "img": "no_photo.jpg" },
+    { "id": 6, "title": "Hat", "price": 25, "img": "no_photo.jpg" },
+    { "id": 7, "title": "Breeches", "price": 100, "img": "no_photo.jpg" },
+    { "id": 8, "title": "Shoes", "price": 150, "img": "no_photo.jpg" }
+]
